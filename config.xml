@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.columbusoh" version="1.6.0">
-    <name>Go Grand Rapids</name>
+<widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.columbusoh" version="1.6.1-ISSUE-74-1">
+    <name>Go Columbus</name>
     <description>Real Time Tracking of the Buses for Columbus, OH</description>
     <author email="line72@line72.net" href="http://line72.net">
         Marcus Dillavou
